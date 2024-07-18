@@ -37,7 +37,7 @@ build_status_module() {
   fi
 
   if [ $((index)) -eq 0 ]; then
-    local show_left_separator="#[fg=$color,bg=default,nobold,nounderscore,noitalics]$status_left_separator"
+    local show_left_separator="#[fg=$color,bg=default,nobold,nounderscore,noitalics]$status_first_left_separator"
   fi
 
   echo "$show_left_separator$show_icon$show_text$show_right_separator"
