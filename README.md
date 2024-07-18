@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-    This is a <a href="https://github.com/catppuccin/tmux">catppuccin/tmux fork</a>. 
+    This is a <a href="https://github.com/catppuccin/tmux">catppuccin/tmux</a> fork. 
 </p>
 
 ## Content
